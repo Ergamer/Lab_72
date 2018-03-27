@@ -1,0 +1,25 @@
+.OnePizzaWindow{
+    border: 1px solid red;
+    width: 80%;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.OnePizzaWindow img{
+    border: 1px green;
+    width: 140px;
+    height: 100%;
+    float: left;
+    border: 1px solid black;
+}
+.OnePizzaWindow h2{
+    display: inline-block;
+    border: 1px solid green;
+    float: left;
+    margin-top: 50px;
+    margin-left: 35px;
+}
+.OnePizzaWindow p{
+    display: inline-block;
+    margin-top: 52px;
+}

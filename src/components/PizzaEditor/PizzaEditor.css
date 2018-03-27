@@ -1,0 +1,12 @@
+.PizzaEditor{
+    padding: 30px 30px 20px 0px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background: #CCCCCC;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+.Fieldses{
+    margin-bottom: 20px;
+}
